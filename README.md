@@ -1,4 +1,4 @@
-### Hi there 👋
+### Howdy! 👋
 
 <!--
 **Kampouse/Kampouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+###  🤖 Whose?
+🇨🇦 living in Quebec city attending  [42School](https://www.42quebec.com/) for some time now <br>
+  who?  [linkedin](https://www.linkedin.com/in/jemartel/)
+ 
+### what i focus on? 🔭
+- [ ] [Deploying my resume](https://github.com/Kampouse/Porfolio)
+- [ ] writing this
+- [ ] completing final 42 exam!
+- [ ] getting an internship!
