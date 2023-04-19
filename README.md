@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-   ## Software developper who try to follow and learn the never ending  word of front-end<br>
+   ## Software developper who tries to follow and learn the never ending  word of front-end<br>
    
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/CAIgh8LKFbIciGx5Qe/giphy.gif?cid=ecf05e471llaqztxh9qhu5b5tnf8yvjnekd6j9u2670b9dcm&rid=giphy.gif" width="100"/>
@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 ⚡ Fun fact: i once did montreal to quebec city on a fixie bike <br>
 🔨  Technology that i dream about? <br>
 ---
+
 <a href="https://www.linkedin.com/in/jemartel/" target="_blank">
 <img src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_logotype_emblem.png" alt="react image" width="50" height="50"/>
 </a>
