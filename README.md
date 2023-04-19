@@ -15,14 +15,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Software developper who try to follow and learn the never ending  word of front-end<br>
+   ## Software developper who try to follow and learn the never ending  word of front-end<br>
+   
+<div id="header" align="center">
+  <img src="https://media4.giphy.com/media/CAIgh8LKFbIciGx5Qe/giphy.gif?cid=ecf05e471llaqztxh9qhu5b5tnf8yvjnekd6j9u2670b9dcm&rid=giphy.gif" width="100"/>
+</div>
+
+<div id="badges" align="center">
+<a href="https://www.linkedin.com/in/jemartel/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/jemartel98" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 🇨🇦  living in Quebec city <br>
 📚  attending  [42School](https://www.42quebec.com/) for some time now <br>
-🧐  [linkedin](https://www.linkedin.com/in/jemartel/)<br> 
 ⚡ Fun fact: i once did montreal to quebec city on a fixie bike <br>
 🔨  Technology that i dream about? <br>
 ---
-<a href="https://react.dev/" target="_blank">
+<a href="https://www.linkedin.com/in/jemartel/" target="_blank">
 <img src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_logotype_emblem.png" alt="react image" width="50" height="50"/>
 </a>
 <a href="https://www.solidjs.com/" target="_blank">
