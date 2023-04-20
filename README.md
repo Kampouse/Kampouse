@@ -69,6 +69,47 @@ Here are some ideas to get you started:
   [Repository](https://github.com/Kampouse/mini-shell-racoon/)<br>
    [Try it](https://replit.com/@jpmartel98/minishell?v=1)
 </details>
+   
+  <details>
+  <summary>Transcendance</summary>
+  final project of 42 school<br> 
+    
+  - team project? <br>
+    yes a team of 5 people<br>
+  - What role you had?<br>
+     I implemented the base of the project and the front-end<br>
+     styling and thhe base of the front-end<br>
+     I also implemented the authentication system<br> using the [42 API](https://api.intra.42.fr/apidoc/guides/getting_started) and [JWT](https://jwt.io/) with [Passport](http://www.passportjs.org/) with all wired up into [NestJS](https://nestjs.com/)<br> learned a lot about the [OAuth](https://oauth.net/2/) protocol<br>
+  -  how was the project seperated?<br>
+      we  seperated the  project into feature and each person was assigned feature<br>  and we worked on them in parallel 
+      and merge code into the main branch when one feature was done<br>
+  [Repository](https://github.com/Kampouse/trans-pong)<br>
+  </details>
+
+<details>
+  <summary> WebServ  </summary>
+  but does how  the web serve stuff? <br> 
+    
+  - network project? sort of? <br>
+    yes its part of the application layer  [OSI model](https://en.wikipedia.org/wiki/OSI_model)<br>
+  - What role you had?<br>
+     I was the one in charge of  parsing heavly inspired  [nginx](https://nginx.org/en/) 
+      config file <br> that would  specify what to serve and how to serve it.<br>  I also impented a non blocking socket that would handle multiple request at the same time.
+      On top of that  i build the parsing for the http request and the response[ HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) protocol<br>
+-  the project was built in c++98 <br>
+  [Repository](https://github.com/Kampouse/webserv) 
+    </details>
+
+ 
+
+
+
+
+
+
+
+
+
 
 ### what i focus on? 🔭
 - [ ] [Deploying my Porfolio](https://github.com/Kampouse/Porfolio)
