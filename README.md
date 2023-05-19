@@ -112,7 +112,7 @@ Here are some ideas to get you started:
 
 
 ### what i focus on? 🔭
-- [ ] [Deploying my Porfolio](https://github.com/Kampouse/Porfolio)
-- [ ] writing this
-- [ ] completing final 42 exam!
+- [x] [Deploying my Porfolio](https://github.com/Kampouse/Porfolio)
+- [x] writing this
+- [x] completing final 42 exam!
 - [ ] getting an internship!
