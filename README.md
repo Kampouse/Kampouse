@@ -27,8 +27,13 @@ Here are some ideas to get you started:
   </a>
   <a href="https://twitter.com/jemartel98" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+     
   </a>
 </div>
+<div id="header" align="center">
+<img src="https://wakatime.com/share/@kampouse/de05ab24-b03e-41a0-b220-576db4f6b0a6.svg" alt="Twitter Badge"/>
+</div>
+
 
 🇨🇦  living in Quebec city <br>
 📚  attending  [42School](https://www.42quebec.com/) for some time now <br>
