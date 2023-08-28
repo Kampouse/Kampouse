@@ -120,4 +120,4 @@ Here are some ideas to get you started:
 - [x] [Deploying my Porfolio](https://github.com/Kampouse/Porfolio)
 - [x] writing this
 - [x] completing final 42 exam!
-- [ ] getting an internship!
+- [x] getting an job!
