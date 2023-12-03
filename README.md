@@ -117,7 +117,6 @@ Here are some ideas to get you started:
 
 
 ### what i focus on? 🔭
-- [x] [Deploying my Porfolio](https://github.com/Kampouse/Porfolio)
-- [x] writing this
-- [x] completing final 42 exam!
-- [x] getting an job!
+- [ ] finish  my intership
+- [ ] find a partner for matcha ???
+- [ ] finish the this project
