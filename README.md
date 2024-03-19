@@ -94,7 +94,7 @@ Here are some ideas to get you started:
 <details>
   <summary> WebServ  </summary>
   but does how  the web serve stuff? <br> 
-    
+    i
   - network project? sort of? <br>
     yes its part of the application layer  [OSI model](https://en.wikipedia.org/wiki/OSI_model)<br>
   - What role you had?<br>
@@ -104,19 +104,3 @@ Here are some ideas to get you started:
 -  the project was built in c++98 <br>
   [Repository](https://github.com/Kampouse/webserv) 
     </details>
-
- 
-
-
-
-
-
-
-
-
-
-
-### what i focus on? 🔭
-- [ ] finish  my intership
-- [ ] find a partner for matcha ???
-- [ ] finish the this project
