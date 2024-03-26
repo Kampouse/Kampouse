@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 </div>
 
 
-🇨🇦  living in Quebec city <br>
+🇨🇦  living in Montreal <br>
 📚  attending  [42School](https://www.42quebec.com/) for some time now <br>
 ⚡ Fun fact: i once did montreal to quebec city on a fixie bike <br>
 🔨  Technology that i dream about? <br>
