@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <img src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_logotype_emblem.png" alt="react image" width="50" height="50"/>
 </a>
 <a href="https://www.qwik.dev/" target="_blank">
-<img src="https://www.rekinysukcesu.pl/images/webp/blog/internet/qwik-js/qwik.webp" alt="qwikjs " width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/QwikDev/qwik/220536fa8d938209d26fa654ad4add5971c3b506/packages/docs/public/logos/qwik-logo.svg" alt="qwikjs " width="50" height="50"/>
 </a>
 <a href="https://vuejs.org/" target="_blank">
 <img src="https://vuejs.org/images/logo.png" alt="vuejs jmage" width="50" height="50"/>
