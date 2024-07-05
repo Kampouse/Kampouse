@@ -44,8 +44,8 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/jemartel/" target="_blank">
 <img src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_logotype_emblem.png" alt="react image" width="50" height="50"/>
 </a>
-<a href="https://www.solidjs.com/" target="_blank">
-<img src="https://www.solidjs.com/assets/logo-123b04bc.svg" alt="solidjs image" width="50" height="50"/>
+<a href="https://www.qwik.dev/" target="_blank">
+<img src="https://www.rekinysukcesu.pl/images/webp/blog/internet/qwik-js/qwik.webp" alt="qwikjs " width="50" height="50"/>
 </a>
 <a href="https://vuejs.org/" target="_blank">
 <img src="https://vuejs.org/images/logo.png" alt="vuejs jmage" width="50" height="50"/>
