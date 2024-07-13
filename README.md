@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-   ## Software developper who tries to follow and learn the never ending  word of front-end<br>
+   ## Software developper who tries to  make stuff while breaking  bad docs :) <br>
    
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/CAIgh8LKFbIciGx5Qe/giphy.gif?cid=ecf05e471llaqztxh9qhu5b5tnf8yvjnekd6j9u2670b9dcm&rid=giphy.gif" width="100"/>
