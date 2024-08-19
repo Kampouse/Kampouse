@@ -1,4 +1,3 @@
-### Howdy! 👋
 
 <!--
 **Kampouse/Kampouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-   ## Software developper who tries to  make stuff while breaking  bad docs :) <br>
    
+
+
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/CAIgh8LKFbIciGx5Qe/giphy.gif?cid=ecf05e471llaqztxh9qhu5b5tnf8yvjnekd6j9u2670b9dcm&rid=giphy.gif" width="100"/>
 </div>
@@ -33,28 +33,28 @@ Here are some ideas to get you started:
 <div id="header" align="center">
 <img src="https://wakatime.com/share/@kampouse/de05ab24-b03e-41a0-b220-576db4f6b0a6.svg" alt="Twitter Badge"/>
 </div>
-
-
+   
 🇨🇦  living in Montreal <br>
-📚  attending  [42School](https://www.42quebec.com/) for some time now <br>
 ⚡ Fun fact: i once did montreal to quebec city on a fixie bike <br>
-🔨  Technology that i dream about? <br>
----
-
+🔭  <a href="https://www.jemartel.dev" target="_blank"> website </a> <br>
+🔨  Make stuff with:  
 <a href="https://www.linkedin.com/in/jemartel/" target="_blank">
 <img src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_logotype_emblem.png" alt="react image" width="50" height="50"/>
 </a>
 <a href="https://www.qwik.dev/" target="_blank">
 <img src="https://raw.githubusercontent.com/QwikDev/qwik/220536fa8d938209d26fa654ad4add5971c3b506/packages/docs/public/logos/qwik-logo.svg" alt="qwikjs " width="50" height="50"/>
 </a>
-<a href="https://vuejs.org/" target="_blank">
-<img src="https://vuejs.org/images/logo.png" alt="vuejs jmage" width="50" height="50"/>
+<a href="https://nuxt.com/" target="_blank">
+<img src="https://nuxt.com/assets/design-kit/icon-green.svg" alt="vuejs jmage" width="50" height="50"/>
 </a>
-<a href="https://trpc.io/" target="_blank">
-<img src="https://trpc.io/img/logo.svg" alt="trpc image" width="50" height="50"/>
+<a href="https://orm.drizzle.team/" target="_blank">
+<img src="https://raw.githubusercontent.com/drizzle-team/drizzle-orm/6adbd78748c8ecb687caa87b7cd775d86cdc0a2b/misc/readme/logo-github-sq-dark.svg" alt="drizzle icon" height="50"  width="75"/>
 </a> 
 <br>
-
+<a  href="https://opensauced.pizza/u/Kampouse" >  
+<img src="https://github.com/user-attachments/assets/afb7eb91-be7a-4c59-9f9e-4d8a980c14cf" alt="opensauce profile" />
+   </a>
+[![My OpenSauced Dev Card](./dev-card.png)](https://oss.fyi/Kampouse)
 ## What are the  projects you put most effort in?
    
   <details>
