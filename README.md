@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ⚡ Fun fact: i once did montreal to quebec city on a fixie bike <br>
 🔭  <a href="https://www.jemartel.dev" target="_blank"> website </a> <br>
 🔨  Make stuff with:  
-<a href="https://www.linkedin.com/in/jemartel/" target="_blank">
+<a href="https://www.react.dev" target="_blank">
 <img src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_logotype_emblem.png" alt="react image" width="50" height="50"/>
 </a>
 <a href="https://www.qwik.dev/" target="_blank">
